@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFWindow", "WPFWindow.csproj", "{CFAEC016-0314-42D1-AEED-B9BFE2760545}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4EF3B8D0-BE16-4A71-9A5A-323A9329DF8A} = {4EF3B8D0-BE16-4A71-9A5A-323A9329DF8A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "..\WpfApp1\WpfApp1.csproj", "{7A083CD9-9345-4C89-80A9-2F3E98A5C095}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4EF3B8D0-BE16-4A71-9A5A-323A9329DF8A} = {4EF3B8D0-BE16-4A71-9A5A-323A9329DF8A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonizedTitleBarWPFUserControl", "..\ButtonizedTitleBarWPFUserControl\ButtonizedTitleBarWPFUserControl.csproj", "{4EF3B8D0-BE16-4A71-9A5A-323A9329DF8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFAEC016-0314-42D1-AEED-B9BFE2760545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFAEC016-0314-42D1-AEED-B9BFE2760545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFAEC016-0314-42D1-AEED-B9BFE2760545}.Debug|x64.ActiveCfg = Debug|x64
+		{CFAEC016-0314-42D1-AEED-B9BFE2760545}.Debug|x64.Build.0 = Debug|x64
+		{CFAEC016-0314-42D1-AEED-B9BFE2760545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFAEC016-0314-42D1-AEED-B9BFE2760545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFAEC016-0314-42D1-AEED-B9BFE2760545}.Release|x64.ActiveCfg = Release|x64
+		{CFAEC016-0314-42D1-AEED-B9BFE2760545}.Release|x64.Build.0 = Release|x64
+		{7A083CD9-9345-4C89-80A9-2F3E98A5C095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A083CD9-9345-4C89-80A9-2F3E98A5C095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A083CD9-9345-4C89-80A9-2F3E98A5C095}.Debug|x64.ActiveCfg = Debug|x64
+		{7A083CD9-9345-4C89-80A9-2F3E98A5C095}.Debug|x64.Build.0 = Debug|x64
+		{7A083CD9-9345-4C89-80A9-2F3E98A5C095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A083CD9-9345-4C89-80A9-2F3E98A5C095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A083CD9-9345-4C89-80A9-2F3E98A5C095}.Release|x64.ActiveCfg = Release|x64
+		{7A083CD9-9345-4C89-80A9-2F3E98A5C095}.Release|x64.Build.0 = Release|x64
+		{4EF3B8D0-BE16-4A71-9A5A-323A9329DF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF3B8D0-BE16-4A71-9A5A-323A9329DF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF3B8D0-BE16-4A71-9A5A-323A9329DF8A}.Debug|x64.ActiveCfg = Debug|x64
+		{4EF3B8D0-BE16-4A71-9A5A-323A9329DF8A}.Debug|x64.Build.0 = Debug|x64
+		{4EF3B8D0-BE16-4A71-9A5A-323A9329DF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF3B8D0-BE16-4A71-9A5A-323A9329DF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EF3B8D0-BE16-4A71-9A5A-323A9329DF8A}.Release|x64.ActiveCfg = Release|x64
+		{4EF3B8D0-BE16-4A71-9A5A-323A9329DF8A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47AE8CD0-8BC4-4919-928F-7107A89A84E7}
+	EndGlobalSection
+EndGlobal

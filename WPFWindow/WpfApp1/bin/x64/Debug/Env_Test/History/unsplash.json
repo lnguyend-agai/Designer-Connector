@@ -1,0 +1,19 @@
+{
+  "_list_history": [
+    {
+      "Url": "https://unsplash.com/fr",
+      "BrowsingTime": "2025-03-02T12:12:34.6270501+07:00"
+    },
+    {
+      "Url": "https://unsplash.com/fr/photos/une-grande-mare-deau-entouree-darbres-SR98VcqBlqY",
+      "BrowsingTime": "2025-03-02T12:12:40.8863504+07:00"
+    },
+    {
+      "Url": "https://unsplash.com/fr",
+      "BrowsingTime": "2025-03-02T12:21:20.7197324+07:00"
+    }
+  ],
+  "CurrentPointer": 2,
+  "Count": 3,
+  "CurrentURL": "https://unsplash.com/fr"
+}

@@ -1,0 +1,6 @@
+C:\Users\PC\Downloads\contentconnector-feature-CIDP-6772-Design-generic-web-browser-dll-for-providers@4238f43f3e2\PythonPartsContent\ContentConnector\WPFWindow\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\contentconnector-feature-CIDP-6772-Design-generic-web-browser-dll-for-providers@4238f43f3e2\PythonPartsContent\ContentConnector\WPFWindow\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Downloads\contentconnector-feature-CIDP-6772-Design-generic-web-browser-dll-for-providers@4238f43f3e2\PythonPartsContent\ContentConnector\WPFWindow\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Downloads\contentconnector-feature-CIDP-6772-Design-generic-web-browser-dll-for-providers@4238f43f3e2\PythonPartsContent\ContentConnector\WPFWindow\WpfApp1\obj\Debug\App.g.cs
+C:\Users\PC\Downloads\contentconnector-feature-CIDP-6772-Design-generic-web-browser-dll-for-providers@4238f43f3e2\PythonPartsContent\ContentConnector\WPFWindow\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\PC\Downloads\contentconnector-feature-CIDP-6772-Design-generic-web-browser-dll-for-providers@4238f43f3e2\PythonPartsContent\ContentConnector\WPFWindow\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
