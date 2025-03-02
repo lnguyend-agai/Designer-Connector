@@ -1,17 +1,19 @@
 # Designer-Connector
 
 # Instruction
-A tool support designer connect to different design website in WPF Window.
+**Designer-Connector** is a WPF application that helps designers seamlessly connect to various design websites within a single window.
 
 # Feature
-Display different design website on WPF Window.
+✅ Embed multiple design websites in a WPF window.
 
-User can interact with the website like direct on Google, Edge, etc.
+✅ Full user interaction with the embedded websites, just like browsing on Google Chrome, Edge, etc.
+
+✅ Custom website behavior using JavaScript.
 
 # Tech Stack
-C# (WPF, WebView2)
+🔹 C# (WPF, WebView2)
 
-Javascript (To custom the website)
+🔹 JavaScript (for website customization)
 
 # Video Demo
 [Video Demo](https://drive.google.com/file/d/1LyfkQ-oqjyggbT9xccsqbUeOaUJ-1J1E/view?usp=drive_link)
